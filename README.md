@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Deprecated
 ==========
 
@@ -35,3 +36,7 @@ Next Steps
 ==========
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
+=======
+# Chef-Practice
+I have created this repository for the chef and its component
+>>>>>>> 066f499316de075ce41cb6bb2476a8a0c90ed944
